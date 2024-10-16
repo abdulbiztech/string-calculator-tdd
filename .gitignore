@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Test coverage output
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor and IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Jest snapshots
+*.snap
+
+# Optional npm cache directory
+.npm/
+
+# Production build files (optional)
+dist/
+build/

@@ -1,0 +1,14 @@
+{
+  "name": "string-calculator-tdd",
+  "version": "1.0.0",
+  "description": "A TDD kata for a string calculator",
+  "main": "src/stringCalculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
